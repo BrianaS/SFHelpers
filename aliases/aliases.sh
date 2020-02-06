@@ -1,1 +1,1 @@
-Add to commit 
+alias SFProjects='cd ~/Desktop/projects'
